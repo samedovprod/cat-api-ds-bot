@@ -1,2 +1,4 @@
 # cat-api-ds-bot
-commands 
+commands:
+npm i
+node index.js
